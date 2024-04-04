@@ -54,7 +54,4 @@ Isso criará uma versão otimizada do aplicativo no diretório dist que pode ser
 <h2> Contribuição </h2>
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões para melhorar o aplicativo, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-<h2>Licença </h2>
-Este projeto é licenciado sob a MIT License.
-
 
